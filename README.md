@@ -1,2 +1,2 @@
-# PCA-Implementation-
-This repository contains implementation of PCI and its techniques.
+# DimensionForge
+This repository contains implementation of PCA and its techniques.
